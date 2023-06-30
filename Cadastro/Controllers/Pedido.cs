@@ -9,6 +9,7 @@ using Cadastro.DTO;
 
 namespace Cadastro.Controllers
 {
+    
     [ApiController]
     [Route("api/[controller]")]
     public class Pedido : ControllerBase
